@@ -33,14 +33,6 @@ Estudante de **Engenharia da Computação** na ESAMC Santos e Desenvolvedor foca
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Felipe-Ferreira-web&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Ferreira-web&layout=compact&theme=dark" />
-</p>
-
----
 ### 📫 Conecte-se comigo:
 
 📍 Guarujá/SP | ✅ Disponibilidade para início imediato
