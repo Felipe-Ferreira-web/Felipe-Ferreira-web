@@ -12,7 +12,7 @@ Estudante de **Engenharia da Computação** na ESAMC Santos e Desenvolvedor foca
 ### 🛠️ Tech Stack & Habilidades
 
 - **Linguagens:** Python, JavaScript (ES6+), SQL.
-- **Frameworks/Web:** Django, ReactJS, HTML5, CSS3.
+- **Frameworks/Web:** Django, ReactJS.
 - **Backend:** Criação de APIs RESTful, CRUD, Autenticação e Versionamento.
 - **Outros:** Suporte Técnico, Manutenção de Hardware e Inglês Avançado.
 
