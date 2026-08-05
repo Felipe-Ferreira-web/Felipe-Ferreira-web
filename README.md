@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,postgres,mariadb,aws,docker,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,postgres,aws,docker,git,html,css" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 ---
