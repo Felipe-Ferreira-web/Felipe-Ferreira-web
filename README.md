@@ -1,41 +1,44 @@
-# Olá, eu sou o Felipe Ferreira! 👋
+<h1 align="center">Olá, eu sou o Felipe Ferreira 👋</h1>
 
-Estudante de **Engenharia da Computação** na ESAMC Santos e Desenvolvedor focado em soluções robustas com **Python & Django**. Tenho experiência prática no desenvolvimento de APIs RESTful e sistemas de gestão de dados.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend+Python+%26+Django;Automa%C3%A7%C3%A3o+%26+Integra%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo&font=Fira%20Code&center=true&width=440&height=40&color=58A6FF&vCenter=true&size=20">
+</p>
 
----------------------
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Tech Stack & Habilidades
-
-- **Linguagens:** Python, JavaScript (ES6+), SQL.
-- **Frameworks/Web:** Django, ReactJS.
-- **Backend:** Criação de APIs RESTful, CRUD, Autenticação e Versionamento.
-- **Outros:** Suporte Técnico, Manutenção de Hardware e Inglês Avançado.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,postgres,aws,docker,git,html,css" />
+</p>
 
 ---
 
-### 📂 Projetos em Destaque
+### 💼 Experiência
 
-* **[Warehouse-Tracker-Django](https://github.com/Felipe-Ferreira-web/Warehouse-Tracker-Django):** Aplicação Django voltada para o gerenciamento de armazéns, focando em organização de fluxo e controle de estocagem.
+**Estagiário em Desenvolvimento de Software** — China Link Trading
 
-* **[Inventory-Rest-API](https://github.com/Felipe-Ferreira-web/Inventory-Rest-API):** API RESTful completa para gestão de almoxarifado, incluindo rotas estruturadas e integração com banco de dados.
+- 🏗️ Desenvolvi sistema de geração/conversão de documentos com cache e extração automatizada
+- 🤖 Desenvolvi sistema de automação com observabilidade e tratamento de erros
+- 📋 Desenvolvi sistema de formulários com API própria e importação de dados
+- 🔧 Colaboro em outras iniciativas internas (dashboards, automações, integrações)
+
+**Estagiário em Desenvolvimento de Software** — BYTEFORGE TECH
+
+- Atuei na estruturação de módulos e aplicação de boas práticas de programação em Python
+
+**Estagiário em Suporte Técnico** — ESAMC Santos
+
+- Resolução de chamados e manutenção de equipamentos de informática
 
 ---
 
-### 💼 Experiência Profissional
+### 📊 GitHub Stats
 
-* **Estagiário em Desenvolvimento de Software** na BYTEFORGE TECH. Atuei na estruturação de módulos e aplicação de boas práticas de programação em Python.
-* **Estagiário em Suporte Técnico** na ESAMC Santos. Resolução de chamados e manutenção de equipamentos de informática.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Felipe-Ferreira-web&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Ferreira-web&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Conecte-se comigo:
-
-📍 Guarujá/SP | ✅ Disponibilidade para início imediato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-465a39280/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.ferreira.rodrigues08@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-ferreira-465a39280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:felipe.ferreira.rodrigues08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
