@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Felipe Ferreira 👋</h1>
+<h1 align="center">Hi, I'm Felipe Ferreira 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend+Python+%26+Django;Automa%C3%A7%C3%A3o+%26+Integra%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo&font=Fira%20Code&center=true&width=440&height=40&color=58A6FF&vCenter=true&size=20&pause=3500">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%E2%80%93+Python+%26+Django;Automation+%26+Integrations;Always+learning+something+new&font=Fira%20Code&center=true&width=440&height=40&color=58A6FF&vCenter=true&size=20&pause=3500">
 </p>
 
 <p align="center">
@@ -10,22 +10,22 @@
 
 ---
 
-### 💼 Experiência
+### 💼 Experience
 
-**Estagiário em Desenvolvimento de Software** — China Link Trading
+**Software Development Intern** — China Link Trading
 
-- 🏗️ Desenvolvi sistema de geração/conversão de documentos com cache e extração automatizada
-- 🤖 Desenvolvi sistema de automação com observabilidade e tratamento de erros
-- 📋 Desenvolvi sistema de formulários com API própria e importação de dados
-- 🔧 Colaboro em outras iniciativas internas (dashboards, automações, integrações)
+- 🏗️ Built a document generation/conversion system with caching and automated extraction
+- 🤖 Built an automation system with observability and error handling
+- 📋 Built a forms system with its own API and data import
+- 🔧 Collaborate on other internal initiatives (dashboards, automations, integrations)
 
-**Estagiário em Desenvolvimento de Software** — BYTEFORGE TECH
+**Software Development Intern** — BYTEFORGE TECH
 
-- Atuei na estruturação de módulos e aplicação de boas práticas de programação em Python
+- Worked on structuring modules and applying Python best practices
 
-**Estagiário em Suporte Técnico** — ESAMC Santos
+**Technical Support Intern** — ESAMC Santos
 
-- Resolução de chamados e manutenção de equipamentos de informática
+- Handled support tickets and maintained IT equipment
 
 ---
 
