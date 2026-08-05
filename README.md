@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe Ferreira 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend+Python+%26+Django;Automa%C3%A7%C3%A3o+%26+Integra%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo&font=Fira%20Code&center=true&width=440&height=40&color=58A6FF&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend+Python+%26+Django;Automa%C3%A7%C3%A3o+%26+Integra%C3%A7%C3%B5es;Sempre+aprendendo+algo+novo&font=Fira%20Code&center=true&width=440&height=40&color=58A6FF&vCenter=true&size=20&pause=3500">
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Felipe-Ferreira-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Ferreira-web&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Ferreira-web&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Ferreira-web&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
