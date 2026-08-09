@@ -22,7 +22,7 @@
 **Software Development Intern** — BYTEFORGE TECH
 
 - 🐍 Developed RESTful APIs with Python (Flask), applying best practices (PEP8) and modular code organization
-- 📦 Built [Inventory REST API](https://github.com/Felipe-Ferreira-web/Inventory-Rest-API), a warehouse management API with JWT authentication (token blacklist for secure logout), SQLAlchemy ORM and SQLite, handling users, items and loan/return transactions
+- 📦 Built [Inventory REST API](https://github.com/Felipe-Ferreira-web/Inventory-Rest-API), a warehouse management API with JWT authentication, SQLAlchemy ORM and SQLite
 - 🗄️ Worked with SQL databases and version control with Git
 - 📚 Strengthened Python fundamentals through structured coursework
 
