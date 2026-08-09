@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Ferreira-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Ferreira-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-ferreira-465a39280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:felipe.ferreira.rodrigues08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
