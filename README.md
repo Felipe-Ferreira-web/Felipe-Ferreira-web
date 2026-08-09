@@ -21,11 +21,16 @@
 
 **Software Development Intern** — BYTEFORGE TECH
 
-- Worked on structuring modules and applying Python best practices
+- 🐍 Developed RESTful APIs with Python (Flask), applying best practices (PEP8) and modular code organization
+- 📦 Built [Inventory REST API](https://github.com/Felipe-Ferreira-web/Inventory-Rest-API), a warehouse management API with JWT authentication (token blacklist for secure logout), SQLAlchemy ORM and SQLite, handling users, items and loan/return transactions
+- 🗄️ Worked with SQL databases and version control with Git
+- 📚 Strengthened Python fundamentals through structured coursework
 
 **Technical Support Intern** — ESAMC Santos
 
-- Handled support tickets and maintained IT equipment
+- 🎫 Provided N1/N2 support and maintenance of hardware and peripherals
+- 🪟 Installed and configured Windows systems and corporate software
+- 🤝 Resolved technical tickets and handled end-user support
 
 ---
 
